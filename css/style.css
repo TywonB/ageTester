@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    text-align: center;
+}
+
+.ageTest {
+    font-size: 50px;
+}
+
+.enterButton {
+    margin-top: 15px;
+}
